@@ -1,0 +1,847 @@
+1st army:
+HealingTower10 - heal power 15, hp 30
+AttackingTower11 - attack power 20, hp 30
+Cavalry32 - attack power 7, hp 10
+Archer43 - attack power 3, hp 3
+AttackingTower14 - attack power 20, hp 30
+HealingTower15 - heal power 15, hp 30
+AttackingTower16 - attack power 20, hp 30
+Warrior67 - attack power 2, hp 5
+AttackingTower18 - attack power 20, hp 30
+HealingTower19 - heal power 15, hp 30
+CavalryArcher210 - attack power 10, hp 7
+AttackingTower111 - attack power 20, hp 30
+AttackingTower112 - attack power 20, hp 30
+Warrior613 - attack power 2, hp 5
+Warrior614 - attack power 2, hp 5
+Cavalry315 - attack power 7, hp 10
+Archer416 - attack power 3, hp 3
+Archer417 - attack power 3, hp 3
+Warrior618 - attack power 2, hp 5
+Tower119 - attack power 20, hp 30
+Archer420 - attack power 3, hp 3
+Archer421 - attack power 3, hp 3
+CavalryArcher222 - attack power 10, hp 7
+CavalryArcher223 - attack power 10, hp 7
+Tower124 - attack power 20, hp 30
+Tower125 - attack power 20, hp 30
+Tower126 - attack power 20, hp 30
+Cavalry327 - attack power 7, hp 10
+Warrior628 - attack power 2, hp 5
+AttackingTower129 - attack power 20, hp 30
+Tower130 - attack power 20, hp 30
+AttackingTower131 - attack power 20, hp 30
+Tower132 - attack power 20, hp 30
+Healer533 - heal power 2, hp 3
+Warrior634 - attack power 2, hp 5
+CavalryArcher235 - attack power 10, hp 7
+Healer536 - heal power 2, hp 3
+Archer437 - attack power 3, hp 3
+HealingTower138 - heal power 15, hp 30
+CavalryArcher239 - attack power 10, hp 7
+Tower140 - attack power 20, hp 30
+HealingTower141 - heal power 15, hp 30
+HealingTower142 - heal power 15, hp 30
+Warrior643 - attack power 2, hp 5
+Tower144 - attack power 20, hp 30
+HealingTower145 - heal power 15, hp 30
+CavalryArcher246 - attack power 10, hp 7
+AttackingTower147 - attack power 20, hp 30
+Healer548 - heal power 2, hp 3
+Cavalry349 - attack power 7, hp 10
+Healer550 - heal power 2, hp 3
+Warrior651 - attack power 2, hp 5
+HealingTower152 - heal power 15, hp 30
+Warrior653 - attack power 2, hp 5
+HealingTower154 - heal power 15, hp 30
+Warrior655 - attack power 2, hp 5
+Archer456 - attack power 3, hp 3
+Warrior657 - attack power 2, hp 5
+Warrior658 - attack power 2, hp 5
+Cavalry359 - attack power 7, hp 10
+Archer460 - attack power 3, hp 3
+Cavalry361 - attack power 7, hp 10
+Archer462 - attack power 3, hp 3
+HealingTower163 - heal power 15, hp 30
+Warrior664 - attack power 2, hp 5
+Warrior665 - attack power 2, hp 5
+Archer466 - attack power 3, hp 3
+Cavalry367 - attack power 7, hp 10
+Healer568 - heal power 2, hp 3
+AttackingTower169 - attack power 20, hp 30
+Cavalry370 - attack power 7, hp 10
+Healer571 - heal power 2, hp 3
+Cavalry372 - attack power 7, hp 10
+Cavalry373 - attack power 7, hp 10
+Archer474 - attack power 3, hp 3
+CavalryArcher275 - attack power 10, hp 7
+CavalryArcher276 - attack power 10, hp 7
+Archer477 - attack power 3, hp 3
+CavalryArcher278 - attack power 10, hp 7
+Tower179 - attack power 20, hp 30
+Tower180 - attack power 20, hp 30
+Archer481 - attack power 3, hp 3
+Cavalry382 - attack power 7, hp 10
+CavalryArcher283 - attack power 10, hp 7
+CavalryArcher284 - attack power 10, hp 7
+Healer585 - heal power 2, hp 3
+CavalryArcher286 - attack power 10, hp 7
+Warrior687 - attack power 2, hp 5
+HealingTower188 - heal power 15, hp 30
+Tower189 - attack power 20, hp 30
+CavalryArcher290 - attack power 10, hp 7
+Cavalry391 - attack power 7, hp 10
+CavalryArcher292 - attack power 10, hp 7
+CavalryArcher293 - attack power 10, hp 7
+Cavalry394 - attack power 7, hp 10
+AttackingTower195 - attack power 20, hp 30
+AttackingTower196 - attack power 20, hp 30
+Tower197 - attack power 20, hp 30
+HealingTower198 - heal power 15, hp 30
+AttackingTower199 - attack power 20, hp 30
+
+
+2nd army:
+HealingTower1100 - heal power 15, hp 30
+AttackingTower1101 - attack power 20, hp 30
+Archer4102 - attack power 3, hp 3
+Tower1103 - attack power 20, hp 30
+Cavalry3104 - attack power 7, hp 10
+HealingTower1105 - heal power 15, hp 30
+CavalryArcher2106 - attack power 10, hp 7
+HealingTower1107 - heal power 15, hp 30
+CavalryArcher2108 - attack power 10, hp 7
+Warrior6109 - attack power 2, hp 5
+HealingTower1110 - heal power 15, hp 30
+Cavalry3111 - attack power 7, hp 10
+AttackingTower1112 - attack power 20, hp 30
+Archer4113 - attack power 3, hp 3
+Healer5114 - heal power 2, hp 3
+Archer4115 - attack power 3, hp 3
+Healer5116 - heal power 2, hp 3
+CavalryArcher2117 - attack power 10, hp 7
+CavalryArcher2118 - attack power 10, hp 7
+Archer4119 - attack power 3, hp 3
+Healer5120 - heal power 2, hp 3
+CavalryArcher2121 - attack power 10, hp 7
+Tower1122 - attack power 20, hp 30
+CavalryArcher2123 - attack power 10, hp 7
+CavalryArcher2124 - attack power 10, hp 7
+Warrior6125 - attack power 2, hp 5
+Warrior6126 - attack power 2, hp 5
+Tower1127 - attack power 20, hp 30
+AttackingTower1128 - attack power 20, hp 30
+Cavalry3129 - attack power 7, hp 10
+Archer4130 - attack power 3, hp 3
+Cavalry3131 - attack power 7, hp 10
+Archer4132 - attack power 3, hp 3
+Archer4133 - attack power 3, hp 3
+HealingTower1134 - heal power 15, hp 30
+HealingTower1135 - heal power 15, hp 30
+Tower1136 - attack power 20, hp 30
+Cavalry3137 - attack power 7, hp 10
+Warrior6138 - attack power 2, hp 5
+CavalryArcher2139 - attack power 10, hp 7
+HealingTower1140 - heal power 15, hp 30
+Warrior6141 - attack power 2, hp 5
+Warrior6142 - attack power 2, hp 5
+HealingTower1143 - heal power 15, hp 30
+Tower1144 - attack power 20, hp 30
+Archer4145 - attack power 3, hp 3
+Tower1146 - attack power 20, hp 30
+HealingTower1147 - heal power 15, hp 30
+Tower1148 - attack power 20, hp 30
+AttackingTower1149 - attack power 20, hp 30
+Archer4150 - attack power 3, hp 3
+Archer4151 - attack power 3, hp 3
+HealingTower1152 - heal power 15, hp 30
+Tower1153 - attack power 20, hp 30
+CavalryArcher2154 - attack power 10, hp 7
+Healer5155 - heal power 2, hp 3
+Archer4156 - attack power 3, hp 3
+Archer4157 - attack power 3, hp 3
+Cavalry3158 - attack power 7, hp 10
+Healer5159 - heal power 2, hp 3
+Warrior6160 - attack power 2, hp 5
+Tower1161 - attack power 20, hp 30
+HealingTower1162 - heal power 15, hp 30
+Tower1163 - attack power 20, hp 30
+Archer4164 - attack power 3, hp 3
+Healer5165 - heal power 2, hp 3
+Cavalry3166 - attack power 7, hp 10
+Warrior6167 - attack power 2, hp 5
+HealingTower1168 - heal power 15, hp 30
+Warrior6169 - attack power 2, hp 5
+Healer5170 - heal power 2, hp 3
+Cavalry3171 - attack power 7, hp 10
+CavalryArcher2172 - attack power 10, hp 7
+AttackingTower1173 - attack power 20, hp 30
+CavalryArcher2174 - attack power 10, hp 7
+AttackingTower1175 - attack power 20, hp 30
+AttackingTower1176 - attack power 20, hp 30
+Warrior6177 - attack power 2, hp 5
+Tower1178 - attack power 20, hp 30
+Cavalry3179 - attack power 7, hp 10
+CavalryArcher2180 - attack power 10, hp 7
+Warrior6181 - attack power 2, hp 5
+Tower1182 - attack power 20, hp 30
+Healer5183 - heal power 2, hp 3
+AttackingTower1184 - attack power 20, hp 30
+AttackingTower1185 - attack power 20, hp 30
+Healer5186 - heal power 2, hp 3
+Archer4187 - attack power 3, hp 3
+CavalryArcher2188 - attack power 10, hp 7
+HealingTower1189 - heal power 15, hp 30
+Cavalry3190 - attack power 7, hp 10
+AttackingTower1191 - attack power 20, hp 30
+Tower1192 - attack power 20, hp 30
+Warrior6193 - attack power 2, hp 5
+CavalryArcher2194 - attack power 10, hp 7
+CavalryArcher2195 - attack power 10, hp 7
+Healer5196 - heal power 2, hp 3
+HealingTower1197 - heal power 15, hp 30
+Tower1198 - attack power 20, hp 30
+Cavalry3199 - attack power 7, hp 10
+
+
+HealingTower10 heals { }
+AttackingTower11 (power 20) attacks HealingTower1105 (hp 30) -> HealingTower1105(10)
+AttackingTower14 (power 20) attacks AttackingTower1176 (hp 30) -> AttackingTower1176(10)
+HealingTower15 heals { }
+AttackingTower16 (power 20) attacks Archer4164 (hp 3) -> Archer4164 is dead
+AttackingTower18 (power 20) attacks Healer5165 (hp 3) -> Healer5165 is dead
+HealingTower19 heals { }
+AttackingTower111 (power 20) attacks AttackingTower1176 (hp 10) -> AttackingTower1176 is dead
+AttackingTower112 (power 20) attacks Tower1153 (hp 30) -> Tower1153(10)
+Tower119 (power 20) attacks CavalryArcher2123 (hp 7) -> CavalryArcher2123 is dead
+Tower124 (power 20) attacks AttackingTower1128 (hp 30) -> AttackingTower1128(10)
+Tower125 (power 20) attacks Cavalry3199 (hp 10) -> Cavalry3199 is dead
+Tower126 (power 20) attacks Tower1178 (hp 30) -> Tower1178(10)
+AttackingTower129 (power 20) attacks Healer5114 (hp 3) -> Healer5114 is dead
+Tower130 (power 20) attacks Cavalry3131 (hp 10) -> Cavalry3131 is dead
+AttackingTower131 (power 20) attacks Cavalry3171 (hp 10) -> Cavalry3171 is dead
+Tower132 (power 20) attacks Cavalry3158 (hp 10) -> Cavalry3158 is dead
+HealingTower138 heals { }
+Tower140 (power 20) attacks Archer4102 (hp 3) -> Archer4102 is dead
+HealingTower141 heals { }
+HealingTower142 heals { }
+Tower144 (power 20) attacks Warrior6160 (hp 5) -> Warrior6160 is dead
+HealingTower145 heals { }
+AttackingTower147 (power 20) attacks HealingTower1135 (hp 30) -> HealingTower1135(10)
+HealingTower152 heals { }
+HealingTower154 heals { }
+HealingTower163 heals { }
+AttackingTower169 (power 20) attacks Tower1148 (hp 30) -> Tower1148(10)
+Tower179 (power 20) attacks AttackingTower1128 (hp 10) -> AttackingTower1128 is dead
+Tower180 (power 20) attacks HealingTower1147 (hp 30) -> HealingTower1147(10)
+HealingTower188 heals { }
+Tower189 (power 20) attacks HealingTower1168 (hp 30) -> HealingTower1168(10)
+AttackingTower195 (power 20) attacks Cavalry3129 (hp 10) -> Cavalry3129 is dead
+AttackingTower196 (power 20) attacks Tower1161 (hp 30) -> Tower1161(10)
+Tower197 (power 20) attacks Warrior6138 (hp 5) -> Warrior6138 is dead
+HealingTower198 heals { }
+AttackingTower199 (power 20) attacks Healer5155 (hp 3) -> Healer5155 is dead
+HealingTower1100 heals {  HealingTower1105 (10) -> 25, }
+AttackingTower1101 (power 20) attacks Tower189 (hp 30) -> Tower189(10)
+Tower1103 (power 20) attacks Archer416 (hp 3) -> Archer416 is dead
+HealingTower1105 heals {  HealingTower1135 (10) -> 25, }
+HealingTower1107 heals {  HealingTower1105 (25) -> 30,  HealingTower1135 (25) -> 30,  HealingTower1147 (10) -> 25, }
+HealingTower1110 heals {  HealingTower1147 (25) -> 30,  HealingTower1168 (10) -> 25, }
+AttackingTower1112 (power 20) attacks HealingTower19 (hp 30) -> HealingTower19(10)
+Tower1122 (power 20) attacks AttackingTower111 (hp 30) -> AttackingTower111(10)
+Tower1127 (power 20) attacks CavalryArcher235 (hp 7) -> CavalryArcher235 is dead
+AttackingTower1128 (power 20) attacks Healer533 (hp 3) -> Healer533 is dead
+HealingTower1134 heals {  HealingTower1168 (25) -> 30, }
+HealingTower1135 heals { }
+Tower1136 (power 20) attacks Cavalry394 (hp 10) -> Cavalry394 is dead
+HealingTower1140 heals { }
+HealingTower1143 heals { }
+Tower1144 (power 20) attacks Warrior67 (hp 5) -> Warrior67 is dead
+Tower1146 (power 20) attacks CavalryArcher283 (hp 7) -> CavalryArcher283 is dead
+HealingTower1147 heals { }
+Tower1148 (power 20) attacks Archer460 (hp 3) -> Archer460 is dead
+AttackingTower1149 (power 20) attacks Warrior664 (hp 5) -> Warrior664 is dead
+HealingTower1152 heals { }
+Tower1153 (power 20) attacks Archer477 (hp 3) -> Archer477 is dead
+Tower1161 (power 20) attacks Warrior655 (hp 5) -> Warrior655 is dead
+HealingTower1162 heals { }
+Tower1163 (power 20) attacks Archer456 (hp 3) -> Archer456 is dead
+HealingTower1168 heals { }
+AttackingTower1173 (power 20) attacks Cavalry373 (hp 10) -> Cavalry373 is dead
+AttackingTower1175 (power 20) attacks Warrior665 (hp 5) -> Warrior665 is dead
+AttackingTower1176 (power 20) attacks Archer421 (hp 3) -> Archer421 is dead
+Tower1178 (power 20) attacks Tower125 (hp 30) -> Tower125(10)
+Tower1182 (power 20) attacks Tower124 (hp 30) -> Tower124(10)
+AttackingTower1184 (power 20) attacks AttackingTower199 (hp 30) -> AttackingTower199(10)
+AttackingTower1185 (power 20) attacks CavalryArcher284 (hp 7) -> CavalryArcher284 is dead
+HealingTower1189 heals { }
+AttackingTower1191 (power 20) attacks Warrior687 (hp 5) -> Warrior687 is dead
+Tower1192 (power 20) attacks Healer550 (hp 3) -> Healer550 is dead
+HealingTower1197 heals { }
+Tower1198 (power 20) attacks HealingTower145 (hp 30) -> HealingTower145(10)
+CavalryArcher210 (power 10) attacks Warrior6169 (hp 5) -> Warrior6169 is dead
+CavalryArcher222 (power 10) attacks CavalryArcher2188 (hp 7) -> CavalryArcher2188 is dead
+CavalryArcher223 (power 10) attacks Tower1182 (hp 30) -> Tower1182(20)
+CavalryArcher235 (power 10) attacks AttackingTower1191 (hp 30) -> AttackingTower1191(20)
+CavalryArcher239 (power 10) attacks Warrior6109 (hp 5) -> Warrior6109 is dead
+CavalryArcher246 (power 10) attacks AttackingTower1173 (hp 30) -> AttackingTower1173(20)
+CavalryArcher275 (power 10) attacks AttackingTower1185 (hp 30) -> AttackingTower1185(20)
+CavalryArcher276 (power 10) attacks Cavalry3179 (hp 10) -> Cavalry3179 is dead
+CavalryArcher278 (power 10) attacks Archer4130 (hp 3) -> Archer4130 is dead
+CavalryArcher283 (power 10) attacks HealingTower1107 (hp 30) -> HealingTower1107(20)
+CavalryArcher284 (power 10) attacks CavalryArcher2194 (hp 7) -> CavalryArcher2194 is dead
+CavalryArcher286 (power 10) attacks CavalryArcher2117 (hp 7) -> CavalryArcher2117 is dead
+CavalryArcher290 (power 10) attacks HealingTower1107 (hp 20) -> HealingTower1107(10)
+CavalryArcher292 (power 10) attacks Archer4187 (hp 3) -> Archer4187 is dead
+CavalryArcher293 (power 10) attacks AttackingTower1191 (hp 20) -> AttackingTower1191(10)
+CavalryArcher2106 (power 10) attacks Archer462 (hp 3) -> Archer462 is dead
+CavalryArcher2108 (power 10) attacks CavalryArcher293 (hp 7) -> CavalryArcher293 is dead
+CavalryArcher2117 (power 10) attacks Cavalry32 (hp 10) -> Cavalry32 is dead
+CavalryArcher2118 (power 10) attacks AttackingTower14 (hp 30) -> AttackingTower14(20)
+CavalryArcher2121 (power 10) attacks HealingTower152 (hp 30) -> HealingTower152(20)
+CavalryArcher2123 (power 10) attacks CavalryArcher222 (hp 7) -> CavalryArcher222 is dead
+CavalryArcher2124 (power 10) attacks AttackingTower111 (hp 10) -> AttackingTower111 is dead
+CavalryArcher2139 (power 10) attacks HealingTower188 (hp 30) -> HealingTower188(20)
+CavalryArcher2154 (power 10) attacks AttackingTower147 (hp 30) -> AttackingTower147(20)
+CavalryArcher2172 (power 10) attacks AttackingTower112 (hp 30) -> AttackingTower112(20)
+CavalryArcher2174 (power 10) attacks HealingTower10 (hp 30) -> HealingTower10(20)
+CavalryArcher2180 (power 10) attacks Tower179 (hp 30) -> Tower179(20)
+CavalryArcher2188 (power 10) attacks CavalryArcher276 (hp 7) -> CavalryArcher276 is dead
+CavalryArcher2194 (power 10) attacks CavalryArcher275 (hp 7) -> CavalryArcher275 is dead
+CavalryArcher2195 (power 10) attacks Warrior651 (hp 5) -> Warrior651 is dead
+Cavalry32 (power 7) attacks CavalryArcher2180 (hp 7) -> CavalryArcher2180 is dead
+Cavalry315 (power 7) attacks Tower1148 (hp 10) -> Tower1148(3)
+Cavalry327 (power 7) attacks HealingTower1107 (hp 10) -> HealingTower1107(3)
+Cavalry349 (power 7) attacks Cavalry3111 (hp 10) -> Cavalry3111(3)
+Cavalry359 (power 7) attacks Tower1122 (hp 30) -> Tower1122(23)
+Cavalry361 (power 7) attacks Cavalry3104 (hp 10) -> Cavalry3104(3)
+Cavalry367 (power 7) attacks Healer5170 (hp 3) -> Healer5170 is dead
+Cavalry370 (power 7) attacks Tower1198 (hp 30) -> Tower1198(23)
+Cavalry372 (power 7) attacks Archer4150 (hp 3) -> Archer4150 is dead
+Cavalry373 (power 7) attacks HealingTower1152 (hp 30) -> HealingTower1152(23)
+Cavalry382 (power 7) attacks Cavalry3111 (hp 3) -> Cavalry3111 is dead
+Cavalry391 (power 7) attacks Cavalry3190 (hp 10) -> Cavalry3190(3)
+Cavalry394 (power 7) attacks AttackingTower1185 (hp 20) -> AttackingTower1185(13)
+Cavalry3104 (power 7) attacks Archer474 (hp 3) -> Archer474 is dead
+Cavalry3111 (power 7) attacks HealingTower19 (hp 10) -> HealingTower19(3)
+Cavalry3129 (power 7) attacks Warrior643 (hp 5) -> Warrior643 is dead
+Cavalry3131 (power 7) attacks AttackingTower112 (hp 20) -> AttackingTower112(13)
+Cavalry3137 (power 7) attacks Cavalry359 (hp 10) -> Cavalry359(3)
+Cavalry3158 (power 7) attacks Archer420 (hp 3) -> Archer420 is dead
+Cavalry3166 (power 7) attacks HealingTower154 (hp 30) -> HealingTower154(23)
+Cavalry3171 (power 7) attacks HealingTower142 (hp 30) -> HealingTower142(23)
+Cavalry3179 (power 7) attacks Healer548 (hp 3) -> Healer548 is dead
+Cavalry3190 (power 7) attacks AttackingTower129 (hp 30) -> AttackingTower129(23)
+Cavalry3199 (power 7) attacks AttackingTower18 (hp 30) -> AttackingTower18(23)
+Archer43 (power 3) attacks Archer4145 (hp 3) -> Archer4145 is dead
+Archer416 (power 3) attacks Warrior6177 (hp 5) -> Warrior6177(2)
+Archer417 (power 3) attacks AttackingTower1184 (hp 30) -> AttackingTower1184(27)
+Archer420 (power 3) attacks Healer5120 (hp 3) -> Healer5120 is dead
+Archer421 (power 3) attacks Warrior6126 (hp 5) -> Warrior6126(2)
+Archer437 (power 3) attacks HealingTower1105 (hp 30) -> HealingTower1105(27)
+Archer456 (power 3) attacks HealingTower1135 (hp 30) -> HealingTower1135(27)
+Archer460 (power 3) attacks Cavalry3137 (hp 10) -> Cavalry3137(7)
+Archer462 (power 3) attacks Warrior6167 (hp 5) -> Warrior6167(2)
+Archer466 (power 3) attacks AttackingTower1173 (hp 20) -> AttackingTower1173(17)
+Archer474 (power 3) attacks Tower1161 (hp 10) -> Tower1161(7)
+Archer477 (power 3) attacks Warrior6181 (hp 5) -> Warrior6181(2)
+Archer481 (power 3) attacks HealingTower1162 (hp 30) -> HealingTower1162(27)
+Archer4102 (power 3) attacks CavalryArcher210 (hp 7) -> CavalryArcher210(4)
+Archer4113 (power 3) attacks Archer417 (hp 3) -> Archer417 is dead
+Archer4115 (power 3) attacks AttackingTower169 (hp 30) -> AttackingTower169(27)
+Archer4119 (power 3) attacks Cavalry349 (hp 10) -> Cavalry349(7)
+Archer4130 (power 3) attacks HealingTower138 (hp 30) -> HealingTower138(27)
+Archer4132 (power 3) attacks Warrior614 (hp 5) -> Warrior614(2)
+Archer4133 (power 3) attacks Tower119 (hp 30) -> Tower119(27)
+Archer4145 (power 3) attacks Tower130 (hp 30) -> Tower130(27)
+Archer4150 (power 3) attacks Healer568 (hp 3) -> Healer568 is dead
+Archer4151 (power 3) attacks HealingTower142 (hp 23) -> HealingTower142(20)
+Archer4156 (power 3) attacks CavalryArcher286 (hp 7) -> CavalryArcher286(4)
+Archer4157 (power 3) attacks HealingTower188 (hp 20) -> HealingTower188(17)
+Archer4164 (power 3) attacks HealingTower154 (hp 23) -> HealingTower154(20)
+Archer4187 (power 3) attacks CavalryArcher223 (hp 7) -> CavalryArcher223(4)
+Healer533 heals {  CavalryArcher210 (4) -> 6, }
+Healer536 heals {  CavalryArcher210 (6) -> 7, }
+Healer548 heals {  Warrior614 (2) -> 4, }
+Healer550 heals {  Warrior614 (4) -> 5, }
+Healer568 heals {  CavalryArcher223 (4) -> 6, }
+Healer571 heals {  CavalryArcher223 (6) -> 7, }
+Healer585 heals {  HealingTower138 (27) -> 29, }
+Healer5114 heals {  HealingTower1105 (27) -> 29, }
+Healer5116 heals {  HealingTower1105 (29) -> 30, }
+Healer5120 heals {  Warrior6126 (2) -> 4, }
+Healer5155 heals {  Warrior6126 (4) -> 5, }
+Healer5159 heals {  HealingTower1135 (27) -> 29, }
+Healer5165 heals {  HealingTower1135 (29) -> 30, }
+Healer5170 heals {  Cavalry3137 (7) -> 9, }
+Healer5183 heals {  Cavalry3137 (9) -> 10, }
+Healer5186 heals {  HealingTower1162 (27) -> 29, }
+Healer5196 heals {  HealingTower1162 (29) -> 30, }
+Warrior67 (power 2) attacks AttackingTower1184 (hp 27) -> AttackingTower1184(25)
+Warrior613 (power 2) attacks Healer5159 (hp 3) -> Healer5159(1)
+Warrior614 (power 2) attacks Tower1161 (hp 7) -> Tower1161(5)
+Warrior618 (power 2) attacks Warrior6141 (hp 5) -> Warrior6141(3)
+Warrior628 (power 2) attacks Tower1153 (hp 10) -> Tower1153(8)
+Warrior634 (power 2) attacks Tower1146 (hp 30) -> Tower1146(28)
+Warrior643 (power 2) attacks Cavalry3137 (hp 10) -> Cavalry3137(8)
+Warrior651 (power 2) attacks Warrior6193 (hp 5) -> Warrior6193(3)
+Warrior653 (power 2) attacks Tower1178 (hp 10) -> Tower1178(8)
+Warrior655 (power 2) attacks Tower1198 (hp 23) -> Tower1198(21)
+Warrior657 (power 2) attacks CavalryArcher2195 (hp 7) -> CavalryArcher2195(5)
+Warrior658 (power 2) attacks Archer4132 (hp 3) -> Archer4132(1)
+Warrior664 (power 2) attacks Archer4157 (hp 3) -> Archer4157(1)
+Warrior665 (power 2) attacks CavalryArcher2139 (hp 7) -> CavalryArcher2139(5)
+Warrior687 (power 2) attacks Archer4133 (hp 3) -> Archer4133(1)
+Warrior6109 (power 2) attacks Tower189 (hp 10) -> Tower189(8)
+Warrior6125 (power 2) attacks HealingTower138 (hp 29) -> HealingTower138(27)
+Warrior6126 (power 2) attacks Tower126 (hp 30) -> Tower126(28)
+Warrior6138 (power 2) attacks Cavalry359 (hp 3) -> Cavalry359(1)
+Warrior6141 (power 2) attacks Cavalry370 (hp 10) -> Cavalry370(8)
+Warrior6142 (power 2) attacks AttackingTower11 (hp 30) -> AttackingTower11(28)
+Warrior6160 (power 2) attacks CavalryArcher223 (hp 7) -> CavalryArcher223(5)
+Warrior6167 (power 2) attacks Cavalry361 (hp 10) -> Cavalry361(8)
+Warrior6169 (power 2) attacks Archer466 (hp 3) -> Archer466(1)
+Warrior6177 (power 2) attacks Cavalry367 (hp 10) -> Cavalry367(8)
+Warrior6181 (power 2) attacks Cavalry382 (hp 10) -> Cavalry382(8)
+Warrior6193 (power 2) attacks Cavalry359 (hp 1) -> Cavalry359 is dead
+HealingTower10 heals {  AttackingTower11 (28) -> 30,  CavalryArcher223 (5) -> 7,  Cavalry361 (8) -> 10, }
+AttackingTower11 (power 20) attacks HealingTower1107 (hp 3) -> HealingTower1107 is dead
+AttackingTower14 (power 20) attacks HealingTower1135 (hp 30) -> HealingTower1135(10)
+HealingTower15 heals {  Archer466 (1) -> 3,  Cavalry367 (8) -> 10,  Cavalry370 (8) -> 10, }
+AttackingTower16 (power 20) attacks HealingTower1147 (hp 30) -> HealingTower1147(10)
+AttackingTower18 (power 20) attacks AttackingTower1191 (hp 10) -> AttackingTower1191 is dead
+HealingTower19 heals {  Cavalry382 (8) -> 10,  HealingTower138 (27) -> 30,  Cavalry349 (7) -> 10, }
+AttackingTower111 (power 20) attacks Warrior6126 (hp 5) -> Warrior6126 is dead
+AttackingTower112 (power 20) attacks Archer4113 (hp 3) -> Archer4113 is dead
+Tower119 (power 20) attacks AttackingTower1149 (hp 30) -> AttackingTower1149(10)
+Tower124 (power 20) attacks Archer4156 (hp 3) -> Archer4156 is dead
+Tower125 (power 20) attacks Warrior6141 (hp 3) -> Warrior6141 is dead
+Tower126 (power 20) attacks Tower1146 (hp 28) -> Tower1146(8)
+AttackingTower129 (power 20) attacks HealingTower1147 (hp 10) -> HealingTower1147 is dead
+Tower130 (power 20) attacks Cavalry3104 (hp 3) -> Cavalry3104 is dead
+AttackingTower131 (power 20) attacks AttackingTower1101 (hp 30) -> AttackingTower1101(10)
+Tower132 (power 20) attacks AttackingTower1184 (hp 25) -> AttackingTower1184(5)
+HealingTower138 heals {  AttackingTower169 (27) -> 30,  CavalryArcher286 (4) -> 7,  AttackingTower18 (23) -> 30, }
+Tower140 (power 20) attacks Tower1136 (hp 30) -> Tower1136(10)
+HealingTower141 heals {  AttackingTower129 (23) -> 30,  HealingTower10 (20) -> 30, }
+HealingTower142 heals {  AttackingTower14 (20) -> 30,  AttackingTower147 (20) -> 30, }
+Tower144 (power 20) attacks AttackingTower1149 (hp 10) -> AttackingTower1149 is dead
+HealingTower145 heals {  HealingTower142 (20) -> 30,  HealingTower152 (20) -> 30, }
+AttackingTower147 (power 20) attacks HealingTower1168 (hp 30) -> HealingTower1168(10)
+HealingTower152 heals {  HealingTower154 (20) -> 30,  HealingTower188 (17) -> 30, }
+HealingTower154 heals {  AttackingTower112 (13) -> 28, }
+HealingTower163 heals {  AttackingTower112 (28) -> 30,  HealingTower145 (10) -> 25, }
+AttackingTower169 (power 20) attacks Healer5196 (hp 3) -> Healer5196 is dead
+Tower179 (power 20) attacks AttackingTower1112 (hp 30) -> AttackingTower1112(10)
+Tower180 (power 20) attacks Tower1127 (hp 30) -> Tower1127(10)
+HealingTower188 heals {  HealingTower145 (25) -> 30,  AttackingTower199 (10) -> 25, }
+Tower189 (power 20) attacks Healer5159 (hp 1) -> Healer5159 is dead
+AttackingTower195 (power 20) attacks Warrior6125 (hp 5) -> Warrior6125 is dead
+AttackingTower196 (power 20) attacks Tower1144 (hp 30) -> Tower1144(10)
+Tower197 (power 20) attacks Tower1146 (hp 8) -> Tower1146 is dead
+HealingTower198 heals {  AttackingTower199 (25) -> 30,  HealingTower19 (3) -> 18, }
+AttackingTower199 (power 20) attacks AttackingTower1112 (hp 10) -> AttackingTower1112 is dead
+HealingTower1100 heals {  Archer4132 (1) -> 3,  Archer4133 (1) -> 3,  Cavalry3137 (8) -> 10, }
+AttackingTower1101 (power 20) attacks CavalryArcher290 (hp 7) -> CavalryArcher290 is dead
+Tower1103 (power 20) attacks AttackingTower195 (hp 30) -> AttackingTower195(10)
+HealingTower1105 heals {  CavalryArcher2139 (5) -> 7,  Archer4157 (1) -> 3,  Warrior6193 (3) -> 5, }
+HealingTower1107 heals {  CavalryArcher2195 (5) -> 7,  Warrior6167 (2) -> 5,  Warrior6177 (2) -> 5, }
+HealingTower1110 heals {  Warrior6181 (2) -> 5,  HealingTower1152 (23) -> 30,  Cavalry3190 (3) -> 10, }
+AttackingTower1112 (power 20) attacks Healer571 (hp 3) -> Healer571 is dead
+Tower1122 (power 20) attacks Archer437 (hp 3) -> Archer437 is dead
+Tower1127 (power 20) attacks AttackingTower131 (hp 30) -> AttackingTower131(10)
+AttackingTower1128 (power 20) attacks AttackingTower11 (hp 30) -> AttackingTower11(10)
+HealingTower1134 heals {  AttackingTower1173 (17) -> 30,  AttackingTower1185 (13) -> 28, }
+HealingTower1135 heals {  AttackingTower1185 (28) -> 30,  AttackingTower1101 (10) -> 25, }
+Tower1136 (power 20) attacks AttackingTower199 (hp 30) -> AttackingTower199(10)
+HealingTower1140 heals {  AttackingTower1101 (25) -> 30,  HealingTower1135 (10) -> 25, }
+HealingTower1143 heals {  HealingTower1135 (25) -> 30,  HealingTower1168 (10) -> 25, }
+Tower1144 (power 20) attacks Cavalry361 (hp 10) -> Cavalry361 is dead
+Tower1146 (power 20) attacks AttackingTower169 (hp 30) -> AttackingTower169(10)
+HealingTower1147 heals {  HealingTower1168 (25) -> 30,  AttackingTower1184 (5) -> 20, }
+Tower1148 (power 20) attacks AttackingTower16 (hp 30) -> AttackingTower16(10)
+AttackingTower1149 (power 20) attacks Cavalry349 (hp 10) -> Cavalry349 is dead
+HealingTower1152 heals {  AttackingTower1184 (20) -> 30, }
+Tower1153 (power 20) attacks CavalryArcher223 (hp 7) -> CavalryArcher223 is dead
+Tower1161 (power 20) attacks Tower126 (hp 28) -> Tower126(8)
+HealingTower1162 heals { }
+Tower1163 (power 20) attacks AttackingTower169 (hp 10) -> AttackingTower169 is dead
+HealingTower1168 heals { }
+AttackingTower1173 (power 20) attacks HealingTower138 (hp 30) -> HealingTower138(10)
+AttackingTower1175 (power 20) attacks Tower125 (hp 10) -> Tower125 is dead
+AttackingTower1176 (power 20) attacks Tower119 (hp 27) -> Tower119(7)
+Tower1178 (power 20) attacks HealingTower19 (hp 18) -> HealingTower19 is dead
+Tower1182 (power 20) attacks Warrior657 (hp 5) -> Warrior657 is dead
+AttackingTower1184 (power 20) attacks AttackingTower11 (hp 10) -> AttackingTower11 is dead
+AttackingTower1185 (power 20) attacks Tower140 (hp 30) -> Tower140(10)
+HealingTower1189 heals { }
+AttackingTower1191 (power 20) attacks CavalryArcher292 (hp 7) -> CavalryArcher292 is dead
+Tower1192 (power 20) attacks AttackingTower196 (hp 30) -> AttackingTower196(10)
+HealingTower1197 heals { }
+Tower1198 (power 20) attacks HealingTower188 (hp 30) -> HealingTower188(10)
+CavalryArcher210 (power 10) attacks AttackingTower1101 (hp 30) -> AttackingTower1101(20)
+CavalryArcher222 (power 10) attacks Tower1182 (hp 20) -> Tower1182(10)
+CavalryArcher223 (power 10) attacks Cavalry3166 (hp 10) -> Cavalry3166 is dead
+CavalryArcher235 (power 10) attacks HealingTower1168 (hp 30) -> HealingTower1168(20)
+CavalryArcher239 (power 10) attacks Tower1144 (hp 10) -> Tower1144 is dead
+CavalryArcher246 (power 10) attacks Tower1178 (hp 8) -> Tower1178 is dead
+CavalryArcher275 (power 10) attacks Warrior6181 (hp 5) -> Warrior6181 is dead
+CavalryArcher276 (power 10) attacks Tower1153 (hp 8) -> Tower1153 is dead
+CavalryArcher278 (power 10) attacks Warrior6193 (hp 5) -> Warrior6193 is dead
+CavalryArcher283 (power 10) attacks Tower1198 (hp 21) -> Tower1198(11)
+CavalryArcher284 (power 10) attacks Healer5186 (hp 3) -> Healer5186 is dead
+CavalryArcher286 (power 10) attacks Cavalry3137 (hp 10) -> Cavalry3137 is dead
+CavalryArcher290 (power 10) attacks Tower1161 (hp 5) -> Tower1161 is dead
+CavalryArcher292 (power 10) attacks Tower1192 (hp 30) -> Tower1192(20)
+CavalryArcher293 (power 10) attacks HealingTower1197 (hp 30) -> HealingTower1197(20)
+CavalryArcher2106 (power 10) attacks CavalryArcher246 (hp 7) -> CavalryArcher246 is dead
+CavalryArcher2108 (power 10) attacks HealingTower10 (hp 30) -> HealingTower10(20)
+CavalryArcher2117 (power 10) attacks HealingTower163 (hp 30) -> HealingTower163(20)
+CavalryArcher2118 (power 10) attacks Tower179 (hp 20) -> Tower179(10)
+CavalryArcher2121 (power 10) attacks HealingTower154 (hp 30) -> HealingTower154(20)
+CavalryArcher2123 (power 10) attacks CavalryArcher210 (hp 7) -> CavalryArcher210 is dead
+CavalryArcher2124 (power 10) attacks HealingTower198 (hp 30) -> HealingTower198(20)
+CavalryArcher2139 (power 10) attacks Warrior613 (hp 5) -> Warrior613 is dead
+CavalryArcher2154 (power 10) attacks Tower180 (hp 30) -> Tower180(20)
+CavalryArcher2172 (power 10) attacks Warrior628 (hp 5) -> Warrior628 is dead
+CavalryArcher2174 (power 10) attacks AttackingTower112 (hp 30) -> AttackingTower112(20)
+CavalryArcher2180 (power 10) attacks AttackingTower16 (hp 10) -> AttackingTower16 is dead
+CavalryArcher2188 (power 10) attacks CavalryArcher286 (hp 7) -> CavalryArcher286 is dead
+CavalryArcher2194 (power 10) attacks Healer585 (hp 3) -> Healer585 is dead
+CavalryArcher2195 (power 10) attacks Tower130 (hp 27) -> Tower130(17)
+Cavalry32 (power 7) attacks Healer5116 (hp 3) -> Healer5116 is dead
+Cavalry315 (power 7) attacks Tower1148 (hp 3) -> Tower1148 is dead
+Cavalry327 (power 7) attacks Tower1192 (hp 20) -> Tower1192(13)
+Cavalry349 (power 7) attacks CavalryArcher2106 (hp 7) -> CavalryArcher2106 is dead
+Cavalry359 (power 7) attacks Tower1192 (hp 13) -> Tower1192(6)
+Cavalry361 (power 7) attacks AttackingTower1175 (hp 30) -> AttackingTower1175(23)
+Cavalry367 (power 7) attacks CavalryArcher2174 (hp 7) -> CavalryArcher2174 is dead
+Cavalry370 (power 7) attacks HealingTower1134 (hp 30) -> HealingTower1134(23)
+Cavalry372 (power 7) attacks Archer4115 (hp 3) -> Archer4115 is dead
+Cavalry373 (power 7) attacks HealingTower1152 (hp 30) -> HealingTower1152(23)
+Cavalry382 (power 7) attacks Tower1122 (hp 23) -> Tower1122(16)
+Cavalry391 (power 7) attacks CavalryArcher2124 (hp 7) -> CavalryArcher2124 is dead
+Cavalry394 (power 7) attacks Tower1163 (hp 30) -> Tower1163(23)
+Cavalry3104 (power 7) attacks HealingTower145 (hp 30) -> HealingTower145(23)
+Cavalry3111 (power 7) attacks HealingTower154 (hp 20) -> HealingTower154(13)
+Cavalry3129 (power 7) attacks Cavalry315 (hp 10) -> Cavalry315(3)
+Cavalry3131 (power 7) attacks AttackingTower18 (hp 30) -> AttackingTower18(23)
+Cavalry3137 (power 7) attacks Cavalry372 (hp 10) -> Cavalry372(3)
+Cavalry3158 (power 7) attacks Tower197 (hp 30) -> Tower197(23)
+Cavalry3166 (power 7) attacks Tower144 (hp 30) -> Tower144(23)
+Cavalry3171 (power 7) attacks Healer536 (hp 3) -> Healer536 is dead
+Cavalry3179 (power 7) attacks HealingTower145 (hp 23) -> HealingTower145(16)
+Cavalry3190 (power 7) attacks Cavalry382 (hp 10) -> Cavalry382(3)
+Cavalry3199 (power 7) attacks Tower197 (hp 23) -> Tower197(16)
+Archer43 (power 3) attacks CavalryArcher2108 (hp 7) -> CavalryArcher2108(4)
+Archer416 (power 3) attacks HealingTower1168 (hp 20) -> HealingTower1168(17)
+Archer417 (power 3) attacks Tower1192 (hp 6) -> Tower1192(3)
+Archer420 (power 3) attacks HealingTower1135 (hp 30) -> HealingTower1135(27)
+Archer421 (power 3) attacks Healer5183 (hp 3) -> Healer5183 is dead
+Archer437 (power 3) attacks CavalryArcher2195 (hp 7) -> CavalryArcher2195(4)
+Archer456 (power 3) attacks Archer4133 (hp 3) -> Archer4133 is dead
+Archer460 (power 3) attacks Tower1192 (hp 3) -> Tower1192 is dead
+Archer462 (power 3) attacks AttackingTower1185 (hp 30) -> AttackingTower1185(27)
+Archer466 (power 3) attacks AttackingTower1175 (hp 23) -> AttackingTower1175(20)
+Archer474 (power 3) attacks AttackingTower1184 (hp 30) -> AttackingTower1184(27)
+Archer477 (power 3) attacks Warrior6142 (hp 5) -> Warrior6142(2)
+Archer481 (power 3) attacks HealingTower1110 (hp 30) -> HealingTower1110(27)
+Archer4102 (power 3) attacks AttackingTower199 (hp 10) -> AttackingTower199(7)
+Archer4113 (power 3) attacks Tower132 (hp 30) -> Tower132(27)
+Archer4115 (power 3) attacks Tower140 (hp 10) -> Tower140(7)
+Archer4119 (power 3) attacks HealingTower154 (hp 13) -> HealingTower154(10)
+Archer4130 (power 3) attacks HealingTower154 (hp 10) -> HealingTower154(7)
+Archer4132 (power 3) attacks Tower124 (hp 10) -> Tower124(7)
+Archer4133 (power 3) attacks Cavalry327 (hp 10) -> Cavalry327(7)
+Archer4145 (power 3) attacks Archer481 (hp 3) -> Archer481 is dead
+Archer4150 (power 3) attacks CavalryArcher278 (hp 7) -> CavalryArcher278(4)
+Archer4151 (power 3) attacks Warrior614 (hp 5) -> Warrior614(2)
+Archer4156 (power 3) attacks HealingTower145 (hp 16) -> HealingTower145(13)
+Archer4157 (power 3) attacks Tower144 (hp 23) -> Tower144(20)
+Archer4164 (power 3) attacks AttackingTower18 (hp 23) -> AttackingTower18(20)
+Archer4187 (power 3) attacks Tower179 (hp 10) -> Tower179(7)
+Healer533 heals {  Warrior614 (2) -> 4, }
+Healer536 heals {  Warrior614 (4) -> 5, }
+Healer548 heals {  Cavalry327 (7) -> 9, }
+Healer550 heals {  Cavalry327 (9) -> 10, }
+Healer568 heals {  CavalryArcher278 (4) -> 6, }
+Healer571 heals {  CavalryArcher278 (6) -> 7, }
+Healer585 heals {  Cavalry315 (3) -> 5, }
+Healer5114 heals {  CavalryArcher2108 (4) -> 6, }
+Healer5116 heals {  CavalryArcher2108 (6) -> 7, }
+Healer5120 heals {  HealingTower1110 (27) -> 29, }
+Healer5155 heals {  HealingTower1110 (29) -> 30, }
+Healer5159 heals {  HealingTower1135 (27) -> 29, }
+Healer5165 heals {  HealingTower1135 (29) -> 30, }
+Healer5170 heals {  Warrior6142 (2) -> 4, }
+Healer5183 heals {  Warrior6142 (4) -> 5, }
+Healer5186 heals {  AttackingTower1184 (27) -> 29, }
+Healer5196 heals {  AttackingTower1184 (29) -> 30, }
+Warrior67 (power 2) attacks Tower1103 (hp 30) -> Tower1103(28)
+Warrior613 (power 2) attacks HealingTower1189 (hp 30) -> HealingTower1189(28)
+Warrior614 (power 2) attacks CavalryArcher2195 (hp 4) -> CavalryArcher2195(2)
+Warrior618 (power 2) attacks Warrior6177 (hp 5) -> Warrior6177(3)
+Warrior628 (power 2) attacks HealingTower1134 (hp 23) -> HealingTower1134(21)
+Warrior634 (power 2) attacks Archer4157 (hp 3) -> Archer4157(1)
+Warrior643 (power 2) attacks CavalryArcher2139 (hp 7) -> CavalryArcher2139(5)
+Warrior651 (power 2) attacks HealingTower1134 (hp 21) -> HealingTower1134(19)
+Warrior653 (power 2) attacks HealingTower1134 (hp 19) -> HealingTower1134(17)
+Warrior655 (power 2) attacks HealingTower1143 (hp 30) -> HealingTower1143(28)
+Warrior657 (power 2) attacks Warrior6167 (hp 5) -> Warrior6167(3)
+Warrior658 (power 2) attacks HealingTower1140 (hp 30) -> HealingTower1140(28)
+Warrior664 (power 2) attacks Tower1127 (hp 10) -> Tower1127(8)
+Warrior665 (power 2) attacks HealingTower1189 (hp 28) -> HealingTower1189(26)
+Warrior687 (power 2) attacks HealingTower1100 (hp 30) -> HealingTower1100(28)
+Warrior6109 (power 2) attacks Archer466 (hp 3) -> Archer466(1)
+Warrior6125 (power 2) attacks AttackingTower195 (hp 10) -> AttackingTower195(8)
+Warrior6126 (power 2) attacks Tower179 (hp 7) -> Tower179(5)
+Warrior6138 (power 2) attacks AttackingTower18 (hp 20) -> AttackingTower18(18)
+Warrior6141 (power 2) attacks Warrior653 (hp 5) -> Warrior653(3)
+Warrior6142 (power 2) attacks Cavalry370 (hp 10) -> Cavalry370(8)
+Warrior6160 (power 2) attacks Warrior634 (hp 5) -> Warrior634(3)
+Warrior6167 (power 2) attacks HealingTower198 (hp 20) -> HealingTower198(18)
+Warrior6169 (power 2) attacks Cavalry382 (hp 3) -> Cavalry382(1)
+Warrior6177 (power 2) attacks HealingTower188 (hp 10) -> HealingTower188(8)
+Warrior6181 (power 2) attacks CavalryArcher278 (hp 7) -> CavalryArcher278(5)
+Warrior6193 (power 2) attacks AttackingTower199 (hp 7) -> AttackingTower199(5)
+HealingTower10 heals {  Warrior634 (3) -> 5,  Warrior653 (3) -> 5,  Archer466 (1) -> 3, }
+AttackingTower11 (power 20) attacks HealingTower1162 (hp 30) -> HealingTower1162(10)
+AttackingTower14 (power 20) attacks Tower1103 (hp 28) -> Tower1103(8)
+HealingTower15 heals {  Cavalry370 (8) -> 10,  CavalryArcher278 (5) -> 7,  Cavalry315 (5) -> 10, }
+AttackingTower16 (power 20) attacks Tower1136 (hp 10) -> Tower1136 is dead
+AttackingTower18 (power 20) attacks HealingTower1197 (hp 20) -> HealingTower1197 is dead
+HealingTower19 heals {  Cavalry372 (3) -> 10,  Cavalry382 (1) -> 10, }
+AttackingTower111 (power 20) attacks Tower1127 (hp 8) -> Tower1127 is dead
+AttackingTower112 (power 20) attacks Archer4132 (hp 3) -> Archer4132 is dead
+Tower119 (power 20) attacks HealingTower1162 (hp 10) -> HealingTower1162 is dead
+Tower124 (power 20) attacks Archer4119 (hp 3) -> Archer4119 is dead
+Tower125 (power 20) attacks CavalryArcher2121 (hp 7) -> CavalryArcher2121 is dead
+Tower126 (power 20) attacks HealingTower1143 (hp 28) -> HealingTower1143(8)
+AttackingTower129 (power 20) attacks HealingTower1143 (hp 8) -> HealingTower1143 is dead
+Tower130 (power 20) attacks AttackingTower1185 (hp 27) -> AttackingTower1185(7)
+AttackingTower131 (power 20) attacks Tower1182 (hp 10) -> Tower1182 is dead
+Tower132 (power 20) attacks Tower1198 (hp 11) -> Tower1198 is dead
+HealingTower138 heals {  HealingTower10 (20) -> 30,  AttackingTower112 (20) -> 30, }
+Tower140 (power 20) attacks CavalryArcher2195 (hp 2) -> CavalryArcher2195 is dead
+HealingTower141 heals {  HealingTower163 (20) -> 30,  AttackingTower18 (18) -> 30, }
+HealingTower142 heals {  HealingTower198 (18) -> 30,  HealingTower145 (13) -> 28, }
+Tower144 (power 20) attacks HealingTower1134 (hp 17) -> HealingTower1134 is dead
+HealingTower145 heals {  AttackingTower131 (10) -> 25, }
+AttackingTower147 (power 20) attacks Warrior6177 (hp 3) -> Warrior6177 is dead
+HealingTower152 heals {  HealingTower145 (28) -> 30,  AttackingTower131 (25) -> 30,  HealingTower138 (10) -> 25, }
+HealingTower154 heals {  HealingTower138 (25) -> 30,  AttackingTower196 (10) -> 25, }
+HealingTower163 heals {  AttackingTower196 (25) -> 30,  HealingTower188 (8) -> 23, }
+AttackingTower169 (power 20) attacks CavalryArcher2118 (hp 7) -> CavalryArcher2118 is dead
+Tower179 (power 20) attacks CavalryArcher2108 (hp 7) -> CavalryArcher2108 is dead
+Tower180 (power 20) attacks Warrior6167 (hp 3) -> Warrior6167 is dead
+HealingTower188 heals {  AttackingTower195 (8) -> 23, }
+Tower189 (power 20) attacks Archer4157 (hp 1) -> Archer4157 is dead
+AttackingTower195 (power 20) attacks HealingTower1152 (hp 23) -> HealingTower1152(3)
+AttackingTower196 (power 20) attacks Cavalry3190 (hp 10) -> Cavalry3190 is dead
+Tower197 (power 20) attacks AttackingTower1175 (hp 20) -> AttackingTower1175 is dead
+HealingTower198 heals {  HealingTower188 (23) -> 30,  AttackingTower195 (23) -> 30,  HealingTower154 (7) -> 22, }
+AttackingTower199 (power 20) attacks CavalryArcher2139 (hp 5) -> CavalryArcher2139 is dead
+HealingTower1100 heals {  HealingTower1140 (28) -> 30,  HealingTower1189 (26) -> 30,  AttackingTower1101 (20) -> 30, }
+AttackingTower1101 (power 20) attacks AttackingTower131 (hp 30) -> AttackingTower131(10)
+Tower1103 (power 20) attacks Cavalry315 (hp 10) -> Cavalry315 is dead
+HealingTower1105 heals {  HealingTower1100 (28) -> 30,  HealingTower1168 (17) -> 30, }
+HealingTower1107 heals {  AttackingTower1185 (7) -> 22, }
+HealingTower1110 heals {  AttackingTower1185 (22) -> 30,  HealingTower1152 (3) -> 18, }
+AttackingTower1112 (power 20) attacks HealingTower198 (hp 30) -> HealingTower198(10)
+Tower1122 (power 20) attacks Tower144 (hp 20) -> Tower144 is dead
+Tower1127 (power 20) attacks HealingTower10 (hp 30) -> HealingTower10(10)
+AttackingTower1128 (power 20) attacks HealingTower163 (hp 30) -> HealingTower163(10)
+HealingTower1134 heals {  HealingTower1152 (18) -> 30, }
+HealingTower1135 heals { }
+Tower1136 (power 20) attacks Tower124 (hp 7) -> Tower124 is dead
+HealingTower1140 heals { }
+HealingTower1143 heals { }
+Tower1144 (power 20) attacks Tower189 (hp 8) -> Tower189 is dead
+Tower1146 (power 20) attacks AttackingTower131 (hp 10) -> AttackingTower131 is dead
+HealingTower1147 heals { }
+Tower1148 (power 20) attacks HealingTower138 (hp 30) -> HealingTower138(10)
+AttackingTower1149 (power 20) attacks AttackingTower195 (hp 30) -> AttackingTower195(10)
+HealingTower1152 heals { }
+Tower1153 (power 20) attacks Tower132 (hp 27) -> Tower132(7)
+Tower1161 (power 20) attacks Warrior634 (hp 5) -> Warrior634 is dead
+HealingTower1162 heals { }
+Tower1163 (power 20) attacks Cavalry367 (hp 10) -> Cavalry367 is dead
+HealingTower1168 heals { }
+AttackingTower1173 (power 20) attacks CavalryArcher278 (hp 7) -> CavalryArcher278 is dead
+AttackingTower1175 (power 20) attacks AttackingTower129 (hp 30) -> AttackingTower129(10)
+AttackingTower1176 (power 20) attacks AttackingTower18 (hp 30) -> AttackingTower18(10)
+Tower1178 (power 20) attacks Tower140 (hp 7) -> Tower140 is dead
+Tower1182 (power 20) attacks AttackingTower129 (hp 10) -> AttackingTower129 is dead
+AttackingTower1184 (power 20) attacks Archer466 (hp 3) -> Archer466 is dead
+AttackingTower1185 (power 20) attacks AttackingTower14 (hp 30) -> AttackingTower14(10)
+HealingTower1189 heals { }
+AttackingTower1191 (power 20) attacks AttackingTower18 (hp 10) -> AttackingTower18 is dead
+Tower1192 (power 20) attacks HealingTower145 (hp 30) -> HealingTower145(10)
+HealingTower1197 heals { }
+Tower1198 (power 20) attacks Cavalry370 (hp 10) -> Cavalry370 is dead
+CavalryArcher210 (power 10) attacks Warrior6142 (hp 5) -> Warrior6142 is dead
+CavalryArcher222 (power 10) attacks AttackingTower1173 (hp 30) -> AttackingTower1173(20)
+CavalryArcher223 (power 10) attacks HealingTower1140 (hp 30) -> HealingTower1140(20)
+CavalryArcher235 (power 10) attacks Archer4151 (hp 3) -> Archer4151 is dead
+CavalryArcher239 (power 10) attacks HealingTower1152 (hp 30) -> HealingTower1152(20)
+CavalryArcher246 (power 10) attacks CavalryArcher2172 (hp 7) -> CavalryArcher2172 is dead
+CavalryArcher275 (power 10) attacks HealingTower1152 (hp 20) -> HealingTower1152(10)
+CavalryArcher276 (power 10) attacks Tower1103 (hp 8) -> Tower1103 is dead
+CavalryArcher278 (power 10) attacks AttackingTower1184 (hp 30) -> AttackingTower1184(20)
+CavalryArcher283 (power 10) attacks HealingTower1135 (hp 30) -> HealingTower1135(20)
+CavalryArcher284 (power 10) attacks HealingTower1140 (hp 20) -> HealingTower1140(10)
+CavalryArcher286 (power 10) attacks HealingTower1110 (hp 30) -> HealingTower1110(20)
+CavalryArcher290 (power 10) attacks HealingTower1168 (hp 30) -> HealingTower1168(20)
+CavalryArcher292 (power 10) attacks HealingTower1110 (hp 20) -> HealingTower1110(10)
+CavalryArcher293 (power 10) attacks HealingTower1100 (hp 30) -> HealingTower1100(20)
+CavalryArcher2106 (power 10) attacks Tower130 (hp 17) -> Tower130(7)
+CavalryArcher2108 (power 10) attacks Tower197 (hp 16) -> Tower197(6)
+CavalryArcher2117 (power 10) attacks Warrior618 (hp 5) -> Warrior618 is dead
+CavalryArcher2118 (power 10) attacks AttackingTower14 (hp 10) -> AttackingTower14 is dead
+CavalryArcher2121 (power 10) attacks Tower180 (hp 20) -> Tower180(10)
+CavalryArcher2123 (power 10) attacks Warrior614 (hp 5) -> Warrior614 is dead
+CavalryArcher2124 (power 10) attacks HealingTower142 (hp 30) -> HealingTower142(20)
+CavalryArcher2139 (power 10) attacks Tower130 (hp 7) -> Tower130 is dead
+CavalryArcher2154 (power 10) attacks Tower179 (hp 5) -> Tower179 is dead
+CavalryArcher2172 (power 10) attacks Tower197 (hp 6) -> Tower197 is dead
+CavalryArcher2174 (power 10) attacks Cavalry372 (hp 10) -> Cavalry372 is dead
+CavalryArcher2180 (power 10) attacks Tower132 (hp 7) -> Tower132 is dead
+CavalryArcher2188 (power 10) attacks Archer43 (hp 3) -> Archer43 is dead
+CavalryArcher2194 (power 10) attacks HealingTower10 (hp 10) -> HealingTower10 is dead
+CavalryArcher2195 (power 10) attacks CavalryArcher239 (hp 7) -> CavalryArcher239 is dead
+Cavalry32 (power 7) attacks CavalryArcher2154 (hp 7) -> CavalryArcher2154 is dead
+Cavalry315 (power 7) attacks AttackingTower1101 (hp 30) -> AttackingTower1101(23)
+Cavalry327 (power 7) attacks HealingTower1189 (hp 30) -> HealingTower1189(23)
+Cavalry349 (power 7) attacks HealingTower1110 (hp 10) -> HealingTower1110(3)
+Cavalry359 (power 7) attacks HealingTower1135 (hp 20) -> HealingTower1135(13)
+Cavalry361 (power 7) attacks Tower1163 (hp 23) -> Tower1163(16)
+Cavalry367 (power 7) attacks AttackingTower1184 (hp 20) -> AttackingTower1184(13)
+Cavalry370 (power 7) attacks Tower1122 (hp 16) -> Tower1122(9)
+Cavalry372 (power 7) attacks AttackingTower1185 (hp 30) -> AttackingTower1185(23)
+Cavalry373 (power 7) attacks AttackingTower1173 (hp 20) -> AttackingTower1173(13)
+Cavalry382 (power 7) attacks HealingTower1168 (hp 20) -> HealingTower1168(13)
+Cavalry391 (power 7) attacks AttackingTower1184 (hp 13) -> AttackingTower1184(6)
+Cavalry394 (power 7) attacks HealingTower1140 (hp 10) -> HealingTower1140(3)
+Cavalry3104 (power 7) attacks AttackingTower147 (hp 30) -> AttackingTower147(23)
+Cavalry3111 (power 7) attacks HealingTower145 (hp 10) -> HealingTower145(3)
+Cavalry3129 (power 7) attacks HealingTower163 (hp 10) -> HealingTower163(3)
+Cavalry3131 (power 7) attacks AttackingTower112 (hp 30) -> AttackingTower112(23)
+Cavalry3137 (power 7) attacks AttackingTower196 (hp 30) -> AttackingTower196(23)
+Cavalry3158 (power 7) attacks HealingTower154 (hp 22) -> HealingTower154(15)
+Cavalry3166 (power 7) attacks HealingTower198 (hp 10) -> HealingTower198(3)
+Cavalry3171 (power 7) attacks Tower180 (hp 10) -> Tower180(3)
+Cavalry3179 (power 7) attacks Warrior653 (hp 5) -> Warrior653 is dead
+Cavalry3190 (power 7) attacks AttackingTower147 (hp 23) -> AttackingTower147(16)
+Cavalry3199 (power 7) attacks Cavalry382 (hp 10) -> Cavalry382(3)
+Archer43 (power 3) attacks HealingTower1135 (hp 13) -> HealingTower1135(10)
+Archer416 (power 3) attacks HealingTower1189 (hp 23) -> HealingTower1189(20)
+Archer417 (power 3) attacks AttackingTower1185 (hp 23) -> AttackingTower1185(20)
+Archer420 (power 3) attacks HealingTower1152 (hp 10) -> HealingTower1152(7)
+Archer421 (power 3) attacks AttackingTower1184 (hp 6) -> AttackingTower1184(3)
+Archer437 (power 3) attacks HealingTower1168 (hp 13) -> HealingTower1168(10)
+Archer456 (power 3) attacks AttackingTower1184 (hp 3) -> AttackingTower1184 is dead
+Archer460 (power 3) attacks HealingTower1105 (hp 30) -> HealingTower1105(27)
+Archer462 (power 3) attacks HealingTower1152 (hp 7) -> HealingTower1152(4)
+Archer466 (power 3) attacks HealingTower1140 (hp 3) -> HealingTower1140 is dead
+Archer474 (power 3) attacks HealingTower1152 (hp 4) -> HealingTower1152(1)
+Archer477 (power 3) attacks Tower1163 (hp 16) -> Tower1163(13)
+Archer481 (power 3) attacks HealingTower1152 (hp 1) -> HealingTower1152 is dead
+Archer4102 (power 3) attacks Tower180 (hp 3) -> Tower180 is dead
+Archer4113 (power 3) attacks HealingTower142 (hp 20) -> HealingTower142(17)
+Archer4115 (power 3) attacks HealingTower145 (hp 3) -> HealingTower145 is dead
+Archer4119 (power 3) attacks Warrior658 (hp 5) -> Warrior658(2)
+Archer4130 (power 3) attacks HealingTower163 (hp 3) -> HealingTower163 is dead
+Archer4132 (power 3) attacks Cavalry327 (hp 10) -> Cavalry327(7)
+Archer4133 (power 3) attacks Tower119 (hp 7) -> Tower119(4)
+Archer4145 (power 3) attacks Tower126 (hp 8) -> Tower126(5)
+Archer4150 (power 3) attacks HealingTower154 (hp 15) -> HealingTower154(12)
+Archer4151 (power 3) attacks Cavalry382 (hp 3) -> Cavalry382 is dead
+Archer4156 (power 3) attacks AttackingTower195 (hp 10) -> AttackingTower195(7)
+Archer4157 (power 3) attacks HealingTower154 (hp 12) -> HealingTower154(9)
+Archer4164 (power 3) attacks HealingTower138 (hp 10) -> HealingTower138(7)
+Archer4187 (power 3) attacks HealingTower188 (hp 30) -> HealingTower188(27)
+Healer533 heals {  Cavalry327 (7) -> 9, }
+Healer536 heals {  Cavalry327 (9) -> 10, }
+Healer548 heals {  Warrior658 (2) -> 4, }
+Healer550 heals {  Warrior658 (4) -> 5, }
+Healer568 heals {  HealingTower188 (27) -> 29, }
+Healer571 heals {  HealingTower188 (29) -> 30, }
+Healer585 heals {  AttackingTower112 (23) -> 25, }
+Healer5114 heals {  HealingTower1105 (27) -> 29, }
+Healer5116 heals {  HealingTower1105 (29) -> 30, }
+Healer5120 heals {  AttackingTower1101 (23) -> 25, }
+Healer5155 heals {  AttackingTower1101 (25) -> 27, }
+Healer5159 heals {  AttackingTower1101 (27) -> 29, }
+Healer5165 heals {  AttackingTower1101 (29) -> 30, }
+Healer5170 heals {  HealingTower1100 (20) -> 22, }
+Healer5183 heals {  HealingTower1100 (22) -> 24, }
+Healer5186 heals {  HealingTower1100 (24) -> 26, }
+Healer5196 heals {  HealingTower1100 (26) -> 28, }
+Warrior67 (power 2) attacks Tower1122 (hp 9) -> Tower1122(7)
+Warrior613 (power 2) attacks AttackingTower1173 (hp 13) -> AttackingTower1173(11)
+Warrior614 (power 2) attacks HealingTower1105 (hp 30) -> HealingTower1105(28)
+Warrior618 (power 2) attacks Tower1163 (hp 13) -> Tower1163(11)
+Warrior628 (power 2) attacks HealingTower1110 (hp 3) -> HealingTower1110(1)
+Warrior634 (power 2) attacks HealingTower1100 (hp 28) -> HealingTower1100(26)
+Warrior643 (power 2) attacks Tower1163 (hp 11) -> Tower1163(9)
+Warrior651 (power 2) attacks HealingTower1105 (hp 28) -> HealingTower1105(26)
+Warrior653 (power 2) attacks AttackingTower1185 (hp 20) -> AttackingTower1185(18)
+Warrior655 (power 2) attacks Tower1122 (hp 7) -> Tower1122(5)
+Warrior657 (power 2) attacks HealingTower1135 (hp 10) -> HealingTower1135(8)
+Warrior658 (power 2) attacks HealingTower1189 (hp 20) -> HealingTower1189(18)
+Warrior664 (power 2) attacks HealingTower1110 (hp 1) -> HealingTower1110 is dead
+Warrior665 (power 2) attacks AttackingTower1173 (hp 11) -> AttackingTower1173(9)
+Warrior687 (power 2) attacks AttackingTower1173 (hp 9) -> AttackingTower1173(7)
+Warrior6109 (power 2) attacks Cavalry327 (hp 10) -> Cavalry327(8)
+Warrior6125 (power 2) attacks HealingTower188 (hp 30) -> HealingTower188(28)
+Warrior6126 (power 2) attacks HealingTower141 (hp 30) -> HealingTower141(28)
+Warrior6138 (power 2) attacks HealingTower198 (hp 3) -> HealingTower198(1)
+Warrior6141 (power 2) attacks AttackingTower196 (hp 23) -> AttackingTower196(21)
+Warrior6142 (power 2) attacks HealingTower198 (hp 1) -> HealingTower198 is dead
+Warrior6160 (power 2) attacks HealingTower154 (hp 9) -> HealingTower154(7)
+Warrior6167 (power 2) attacks HealingTower138 (hp 7) -> HealingTower138(5)
+Warrior6169 (power 2) attacks HealingTower188 (hp 28) -> HealingTower188(26)
+Warrior6177 (power 2) attacks AttackingTower147 (hp 16) -> AttackingTower147(14)
+Warrior6181 (power 2) attacks HealingTower141 (hp 28) -> HealingTower141(26)
+Warrior6193 (power 2) attacks Tower119 (hp 4) -> Tower119(2)
+HealingTower10 heals {  Cavalry327 (8) -> 10,  HealingTower141 (26) -> 30,  HealingTower188 (26) -> 30, }
+AttackingTower11 (power 20) attacks HealingTower1100 (hp 26) -> HealingTower1100(6)
+AttackingTower14 (power 20) attacks HealingTower1135 (hp 8) -> HealingTower1135 is dead
+HealingTower15 heals {  AttackingTower112 (25) -> 30,  AttackingTower196 (21) -> 30,  HealingTower142 (17) -> 30, }
+AttackingTower16 (power 20) attacks HealingTower1100 (hp 6) -> HealingTower1100 is dead
+AttackingTower18 (power 20) attacks HealingTower1168 (hp 10) -> HealingTower1168 is dead
+HealingTower19 heals {  AttackingTower147 (14) -> 29, }
+AttackingTower111 (power 20) attacks AttackingTower1185 (hp 18) -> AttackingTower1185 is dead
+AttackingTower112 (power 20) attacks Tower1163 (hp 9) -> Tower1163 is dead
+Tower119 (power 20) attacks Tower1122 (hp 5) -> Tower1122 is dead
+Tower124 (power 20) attacks HealingTower1105 (hp 26) -> HealingTower1105(6)
+Tower125 (power 20) attacks HealingTower1189 (hp 18) -> HealingTower1189 is dead
+Tower126 (power 20) attacks AttackingTower1173 (hp 7) -> AttackingTower1173 is dead
+AttackingTower129 (power 20) attacks HealingTower1105 (hp 6) -> HealingTower1105 is dead
+Tower130 (power 20) attacks AttackingTower1101 (hp 30) -> AttackingTower1101(10)
+AttackingTower131 (power 20) attacks AttackingTower1101 (hp 10) -> AttackingTower1101 is dead
+===========================
+Results:
+1st army:
+HealingTower15 - heal power 15, hp 30
+AttackingTower112 - attack power 20, hp 30
+Tower119 - attack power 20, hp 2
+Tower126 - attack power 20, hp 5
+Cavalry327 - attack power 7, hp 10
+HealingTower138 - heal power 15, hp 5
+HealingTower141 - heal power 15, hp 30
+HealingTower142 - heal power 15, hp 30
+AttackingTower147 - attack power 20, hp 29
+HealingTower152 - heal power 15, hp 30
+HealingTower154 - heal power 15, hp 7
+Warrior658 - attack power 2, hp 5
+HealingTower188 - heal power 15, hp 30
+Cavalry391 - attack power 7, hp 10
+AttackingTower195 - attack power 20, hp 7
+AttackingTower196 - attack power 20, hp 30
+AttackingTower199 - attack power 20, hp 5
+
+
+2nd army:
+
+
